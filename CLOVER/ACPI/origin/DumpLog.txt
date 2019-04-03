@@ -1,0 +1,172 @@
+12:668  0:600  Found BIOS RSDP at F0140
+12:668  0:000  Printing ACPI tables from RSDP F0140 ...
+12:668  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:668  0:000    (Xsdt: 6FFC2188, Rsdt: 6FFC20C4)
+12:668  0:000    6FFC2188: 'XSDT', 'TP-N1V', Rev: 1, Len: 252
+12:668  0:000    6FFC20C4: 'RSDT', 'TP-N1V', Rev: 1, Len: 144
+12:668  0:000    Tables in Xsdt: 27
+12:668  0:000    0. 6FFF5000: 'FACP', 'TP-N1V', Rev: 5, Len: 244
+12:668  0:000        (Dsdt: 6FFD0000, Facs: 6FF3D000, XDsdt: 6FFD0000, XFacs: 0)
+12:668  0:000        6FFD0000: 'DSDT', 'SKL', Rev: 2, Len: 134078
+12:670  0:001        6FF3D000: 'FACS', Ver: 2, Len: 64
+12:670  0:000    1. 6FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+12:670  0:000    2. 6FFFB000: 'TPM2', 'TP-N1V', Rev: 3, Len: 52
+12:670  0:000    3. 6FF53000: 'UEFI', 'TP-N1V', Rev: 1, Len: 66
+12:670  0:000    4. 6FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+12:670  0:000    5. 6FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+12:670  0:000    6. 6FFF4000: 'HPET', 'TP-N1V', Rev: 1, Len: 56
+12:670  0:000    7. 6FFF3000: 'APIC', 'TP-N1V', Rev: 3, Len: 188
+12:670  0:000    8. 6FFF2000: 'MCFG', 'TP-N1V', Rev: 1, Len: 60
+12:670  0:000    9. 6FFF1000: 'ECDT', 'TP-N1V', Rev: 1, Len: 83
+12:670  0:000    10. 6FFCE000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5712
+12:670  0:000    11. 6FFCD000: 'BOOT', 'TP-N1V', Rev: 1, Len: 40
+12:670  0:000    12. 6FFCC000: 'BATB', 'TP-N1V', Rev: 2, Len: 74
+12:670  0:000    13. 6FFCA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+12:670  0:000    14. 6FFC9000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+12:670  0:000    15. 6FFC8000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+12:670  0:000    16. 6FFC7000: 'WSMT', 'TP-N1V', Rev: 1, Len: 40
+12:670  0:000    17. 6FFC6000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:670  0:000    18. 6FFC5000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1271
+12:670  0:000    19. 6FFC4000: 'DBGP', 'TP-N1V', Rev: 1, Len: 52
+12:670  0:000    20. 6FFC3000: 'DBG2', 'TP-N1V', Rev: 0, Len: 84
+12:670  0:000    21. 6FFFD000: 'MSDM', 'TP-N1V', Rev: 3, Len: 85
+12:670  0:000    22. 6FFC1000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+12:670  0:000    23. 6FFBF000: 'SSDT', 'SgPch', Rev: 2, Len: 5382
+12:670  0:000    24. 6FFBE000: 'ASF!', 'TP-N1V', Rev: 32, Len: 160
+12:670  0:000    25. 6FFBD000: 'FPDT', 'TP-N1V', Rev: 1, Len: 68
+12:670  0:000    26. 6FF19000: 'UEFI', 'TP-N1V', Rev: 1, Len: 318
+12:670  0:000    Tables in Rsdt: 27
+12:670  0:000    0. 6FFF5000: 'FACP', 'TP-N1V', Rev: 5, Len: 244
+12:670  0:000        (Dsdt: 6FFD0000, Facs: 6FF3D000, XDsdt: 6FFD0000, XFacs: 0)
+12:670  0:000        6FFD0000: 'DSDT', 'SKL', Rev: 2, Len: 134078
+12:672  0:001        6FF3D000: 'FACS', Ver: 2, Len: 64
+12:672  0:000    1. 6FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+12:672  0:000    2. 6FFFB000: 'TPM2', 'TP-N1V', Rev: 3, Len: 52
+12:672  0:000    3. 6FF53000: 'UEFI', 'TP-N1V', Rev: 1, Len: 66
+12:672  0:000    4. 6FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+12:672  0:000    5. 6FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+12:672  0:000    6. 6FFF4000: 'HPET', 'TP-N1V', Rev: 1, Len: 56
+12:672  0:000    7. 6FFF3000: 'APIC', 'TP-N1V', Rev: 3, Len: 188
+12:672  0:000    8. 6FFF2000: 'MCFG', 'TP-N1V', Rev: 1, Len: 60
+12:672  0:000    9. 6FFF1000: 'ECDT', 'TP-N1V', Rev: 1, Len: 83
+12:672  0:000    10. 6FFCE000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5712
+12:672  0:000    11. 6FFCD000: 'BOOT', 'TP-N1V', Rev: 1, Len: 40
+12:672  0:000    12. 6FFCC000: 'BATB', 'TP-N1V', Rev: 2, Len: 74
+12:672  0:000    13. 6FFCA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+12:672  0:000    14. 6FFC9000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+12:672  0:000    15. 6FFC8000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+12:672  0:000    16. 6FFC7000: 'WSMT', 'TP-N1V', Rev: 1, Len: 40
+12:672  0:000    17. 6FFC6000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:672  0:000    18. 6FFC5000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1271
+12:672  0:000    19. 6FFC4000: 'DBGP', 'TP-N1V', Rev: 1, Len: 52
+12:672  0:000    20. 6FFC3000: 'DBG2', 'TP-N1V', Rev: 0, Len: 84
+12:672  0:000    21. 6FFFD000: 'MSDM', 'TP-N1V', Rev: 3, Len: 85
+12:672  0:000    22. 6FFC1000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+12:672  0:000    23. 6FFBF000: 'SSDT', 'SgPch', Rev: 2, Len: 5382
+12:672  0:000    24. 6FFBE000: 'ASF!', 'TP-N1V', Rev: 32, Len: 160
+12:672  0:000    25. 6FFBD000: 'FPDT', 'TP-N1V', Rev: 1, Len: 68
+12:672  0:000    26. 6FF19000: 'UEFI', 'TP-N1V', Rev: 1, Len: 318
+12:672  0:000  Found UEFI Acpi 2.0 RSDP at 6FFFE014
+12:672  0:000  Saving ACPI tables from RSDP 6FFFE014 to EFI\CLOVER\ACPI\origin ...
+12:672  0:000   6FFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:672  0:000    (Xsdt: 6FFC2188, Rsdt: 6FFC20C4)
+12:672  0:000    6FFC2188: 'XSDT', 'TP-N1V', Rev: 1, Len: 252
+12:672  0:000    6FFC20C4: 'RSDT', 'TP-N1V', Rev: 1, Len: 144
+12:672  0:000    Tables in Xsdt: 27
+12:672  0:000    0. 6FFF5000: 'FACP', 'TP-N1V', Rev: 5, Len: 244
+12:672  0:000        (Dsdt: 6FFD0000, Facs: 6FF3D000, XDsdt: 6FFD0000, XFacs: 0)
+12:672  0:000        6FFD0000: 'DSDT', 'SKL', Rev: 2, Len: 134078
+12:674  0:002        6FF3D000: 'FACS', Ver: 2, Len: 64
+12:674  0:000    1. 6FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+12:674  0:000    2. 6FFFB000: 'TPM2', 'TP-N1V', Rev: 3, Len: 52
+12:674  0:000    3. 6FF53000: 'UEFI', 'TP-N1V', Rev: 1, Len: 66
+12:674  0:000    4. 6FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+12:674  0:000    5. 6FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+12:674  0:000    6. 6FFF4000: 'HPET', 'TP-N1V', Rev: 1, Len: 56
+12:674  0:000    7. 6FFF3000: 'APIC', 'TP-N1V', Rev: 3, Len: 188
+12:674  0:000    8. 6FFF2000: 'MCFG', 'TP-N1V', Rev: 1, Len: 60
+12:674  0:000    9. 6FFF1000: 'ECDT', 'TP-N1V', Rev: 1, Len: 83
+12:674  0:000    10. 6FFCE000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5712
+12:674  0:000    11. 6FFCD000: 'BOOT', 'TP-N1V', Rev: 1, Len: 40
+12:674  0:000    12. 6FFCC000: 'BATB', 'TP-N1V', Rev: 2, Len: 74
+12:674  0:000    13. 6FFCA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+12:674  0:000    14. 6FFC9000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+12:674  0:000    15. 6FFC8000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+12:674  0:000    16. 6FFC7000: 'WSMT', 'TP-N1V', Rev: 1, Len: 40
+12:674  0:000    17. 6FFC6000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:674  0:000    18. 6FFC5000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1271
+12:674  0:000    19. 6FFC4000: 'DBGP', 'TP-N1V', Rev: 1, Len: 52
+12:674  0:000    20. 6FFC3000: 'DBG2', 'TP-N1V', Rev: 0, Len: 84
+12:674  0:000    21. 6FFFD000: 'MSDM', 'TP-N1V', Rev: 3, Len: 85
+12:674  0:000    22. 6FFC1000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+12:674  0:000    23. 6FFBF000: 'SSDT', 'SgPch', Rev: 2, Len: 5382
+12:674  0:000    24. 6FFBE000: 'ASF!', 'TP-N1V', Rev: 32, Len: 160
+12:674  0:000    25. 6FFBD000: 'FPDT', 'TP-N1V', Rev: 1, Len: 68
+12:674  0:000    26. 6FF19000: 'UEFI', 'TP-N1V', Rev: 1, Len: 318
+12:674  0:000    Tables in Rsdt: 27
+12:674  0:000    0. 6FFF5000: 'FACP', 'TP-N1V', Rev: 5, Len: 244
+12:674  0:000        (Dsdt: 6FFD0000, Facs: 6FF3D000, XDsdt: 6FFD0000, XFacs: 0)
+12:674  0:000        6FFD0000: 'DSDT', 'SKL', Rev: 2, Len: 134078
+12:676  0:001        6FF3D000: 'FACS', Ver: 2, Len: 64
+12:676  0:000    1. 6FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+12:676  0:000    2. 6FFFB000: 'TPM2', 'TP-N1V', Rev: 3, Len: 52
+12:676  0:000    3. 6FF53000: 'UEFI', 'TP-N1V', Rev: 1, Len: 66
+12:676  0:000    4. 6FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+12:676  0:000    5. 6FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+12:676  0:000    6. 6FFF4000: 'HPET', 'TP-N1V', Rev: 1, Len: 56
+12:676  0:000    7. 6FFF3000: 'APIC', 'TP-N1V', Rev: 3, Len: 188
+12:676  0:000    8. 6FFF2000: 'MCFG', 'TP-N1V', Rev: 1, Len: 60
+12:676  0:000    9. 6FFF1000: 'ECDT', 'TP-N1V', Rev: 1, Len: 83
+12:676  0:000    10. 6FFCE000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5712
+12:676  0:000    11. 6FFCD000: 'BOOT', 'TP-N1V', Rev: 1, Len: 40
+12:676  0:000    12. 6FFCC000: 'BATB', 'TP-N1V', Rev: 2, Len: 74
+12:676  0:000    13. 6FFCA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+12:676  0:000    14. 6FFC9000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+12:676  0:000    15. 6FFC8000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+12:676  0:000    16. 6FFC7000: 'WSMT', 'TP-N1V', Rev: 1, Len: 40
+12:676  0:000    17. 6FFC6000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:676  0:000    18. 6FFC5000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1271
+12:676  0:000    19. 6FFC4000: 'DBGP', 'TP-N1V', Rev: 1, Len: 52
+12:676  0:000    20. 6FFC3000: 'DBG2', 'TP-N1V', Rev: 0, Len: 84
+12:676  0:000    21. 6FFFD000: 'MSDM', 'TP-N1V', Rev: 3, Len: 85
+12:676  0:000    22. 6FFC1000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+12:676  0:000    23. 6FFBF000: 'SSDT', 'SgPch', Rev: 2, Len: 5382
+12:676  0:000    24. 6FFBE000: 'ASF!', 'TP-N1V', Rev: 32, Len: 160
+12:676  0:000    25. 6FFBD000: 'FPDT', 'TP-N1V', Rev: 1, Len: 68
+12:676  0:000    26. 6FF19000: 'UEFI', 'TP-N1V', Rev: 1, Len: 318
+12:676  0:000  Found UEFI Acpi 1.0 RSDP at 6FFFE000
+12:676  0:000  Printing ACPI tables from RSDP 6FFFE000 ...
+12:676  0:000   6FFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+12:676  0:000    (Rsdt: 6FFC2000)
+12:676  0:000    6FFC2000: 'RSDT', 'TP-N1V', Rev: 1, Len: 144
+12:676  0:000    Tables in Rsdt: 27
+12:676  0:000    0. 6FFF5000: 'FACP', 'TP-N1V', Rev: 5, Len: 244
+12:676  0:000        (Dsdt: 6FFD0000, Facs: 6FF3D000, XDsdt: 6FFD0000, XFacs: 0)
+12:676  0:000        6FFD0000: 'DSDT', 'SKL', Rev: 2, Len: 134078
+12:678  0:001        6FF3D000: 'FACS', Ver: 2, Len: 64
+12:678  0:000    1. 6FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+12:678  0:000    2. 6FFFB000: 'TPM2', 'TP-N1V', Rev: 3, Len: 52
+12:678  0:000    3. 6FF53000: 'UEFI', 'TP-N1V', Rev: 1, Len: 66
+12:678  0:000    4. 6FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12853
+12:678  0:000    5. 6FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+12:678  0:000    6. 6FFF4000: 'HPET', 'TP-N1V', Rev: 1, Len: 56
+12:678  0:000    7. 6FFF3000: 'APIC', 'TP-N1V', Rev: 3, Len: 188
+12:678  0:000    8. 6FFF2000: 'MCFG', 'TP-N1V', Rev: 1, Len: 60
+12:678  0:000    9. 6FFF1000: 'ECDT', 'TP-N1V', Rev: 1, Len: 83
+12:678  0:000    10. 6FFCE000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5712
+12:678  0:000    11. 6FFCD000: 'BOOT', 'TP-N1V', Rev: 1, Len: 40
+12:678  0:000    12. 6FFCC000: 'BATB', 'TP-N1V', Rev: 2, Len: 74
+12:678  0:000    13. 6FFCA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+12:678  0:000    14. 6FFC9000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+12:678  0:000    15. 6FFC8000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+12:678  0:000    16. 6FFC7000: 'WSMT', 'TP-N1V', Rev: 1, Len: 40
+12:678  0:000    17. 6FFC6000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:678  0:000    18. 6FFC5000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1271
+12:678  0:000    19. 6FFC4000: 'DBGP', 'TP-N1V', Rev: 1, Len: 52
+12:678  0:000    20. 6FFC3000: 'DBG2', 'TP-N1V', Rev: 0, Len: 84
+12:678  0:000    21. 6FFFD000: 'MSDM', 'TP-N1V', Rev: 3, Len: 85
+12:678  0:000    22. 6FFC1000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+12:678  0:000    23. 6FFBF000: 'SSDT', 'SgPch', Rev: 2, Len: 5382
+12:678  0:000    24. 6FFBE000: 'ASF!', 'TP-N1V', Rev: 32, Len: 160
+12:678  0:000    25. 6FFBD000: 'FPDT', 'TP-N1V', Rev: 1, Len: 68
+12:678  0:000    26. 6FF19000: 'UEFI', 'TP-N1V', Rev: 1, Len: 318

@@ -1,4 +1,6 @@
 # ThinkPadT570_HackIntoSh_Clover
+本引导根据网络及爱好者指引配置，只在本机测试使用，未在其他机型测试，使用需谨慎
+
 电脑配置信息
 
 处理器	
@@ -11,16 +13,12 @@ CPU系列第七代智能英特尔酷睿i5 CPU型号i5-7200U CPU主频2.5GHz 最�
 显卡	
 显卡类型双显卡(独立显卡 + 集成显卡)
 
-显卡芯片NVIDIA GeForce 940MX + Intel HD Graphics 620
-
-显存容量2G
+显卡芯片NVIDIA GeForce 940MX + Intel HD Graphics 620 显存容量2G
 
 多媒体	
 摄像头720p HD 摄像头
 
-音频系统HD Audio, Realtek ALC3268 codec
-
-扬声器立体声扬声器 2W×2
+音频系统HD Audio, Realtek ALC3268
 
 麦克风Built-in Dual Array Microphone(内置双阵列麦克风)
 
@@ -43,12 +41,17 @@ I/O接口
 输入设备	
 指取设备TrackPad 经典触控板 多点触控 3+2按键
 
-指纹识别有
-
 电源描述	
 电池类型4芯电池(32Wh)+3芯后置电池(24Whr)
 
 ### 以下硬件无法驱动
 指纹、intel无线网卡无解、蓝牙；无线网卡用的网件usb小卡代替，电池驱动感觉不完美，掉电快。
 
+SD读卡器更改配置，可以识别使用，速度不快。
 
+声卡、usb定制使用hacktool软件补丁clover，声卡为ALC3268，所以我选了id为29的，正常外放跟耳机，hdmi也正常。
+
+感谢
+黑果小兵提供系统包
+宪武提供初版EFI、电池驱动方案
+其他机友支持
